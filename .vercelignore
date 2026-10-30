@@ -1,0 +1,7 @@
+# Not needed for the Vercel build. Keeps local caches, QA screenshots,
+# and the original full-size portrait out of the upload.
+.cache
+dist
+node_modules
+.vscode
+*.log
